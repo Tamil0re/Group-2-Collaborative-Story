@@ -7,3 +7,5 @@
 --- [Read Chapter 3: Enter Sir Python-salot](chapter_3.py)
 
 --- [Read Chapter 4: The Chase Through the Code](chapter_4.py)
+
+--- [Read Chapter 5: Up, Up, and Away](chapter_5.py)
