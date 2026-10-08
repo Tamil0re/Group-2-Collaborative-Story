@@ -5,3 +5,5 @@
 --- [Read Chapter 2: Something Stirs Behind the Cursor](chapter_2.py)
 
 --- [Read Chapter 3: Enter Sir Python-salot](chapter_3.py)
+
+--- [Read Chapter 4: The Chase Through the Code](chapter_4.py)
